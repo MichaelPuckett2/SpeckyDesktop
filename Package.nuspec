@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>Michael Puckett, II</owners>
+    <projectUrl>https://github.com/MichaelPuckett2/SpeckyDesktop</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Init Commit</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Specky, SpeckyDesktop, MVVM, reactive model</tags>
+  </metadata>
+</package>
