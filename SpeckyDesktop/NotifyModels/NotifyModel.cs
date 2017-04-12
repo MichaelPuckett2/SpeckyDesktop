@@ -4,6 +4,7 @@ using System.Runtime.CompilerServices;
 
 namespace Specky.NotifyModels
 {
+    [Serializable()]
     abstract public class NotifyModel : INotifyPropertyChanged
     {
         [field: NonSerialized()]
